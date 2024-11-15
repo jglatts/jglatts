@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=39AE0C&width=435&separator=%3C&lines=printf(%22Hello+World!%22);" /></a>
 </p>   
 
-<p align="center">
+
    ._________________.
    |.---------------.|
    ||               ||
@@ -19,4 +19,4 @@
 /______/__________\___o_\ 
 \_______________________/
 
-</p> 
+
