@@ -1,5 +1,7 @@
 <h1 align="center">Hello World, I'm John 👋</h1>
+
 ---
+
 ### About Me
 
 I'm a software engineer who likes working close to hardware. Things like fixtures, embedded systems, test equipment, automation, and the occasional weird hardware problem that refuses to behave.
