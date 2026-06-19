@@ -25,7 +25,7 @@ I like building practical tools that make real equipment easier to use, test, an
 ### Philosophy
 
 ```c
-while(!problem_solved) {
+while (!problem_solved) {
     test();
     debug();
     improve();
