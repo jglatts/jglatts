@@ -1,17 +1,36 @@
+<h1 align="center">Hello World, I'm John 👋</h1>
+
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://jglatts.github.io/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=3AC346&width=435&separator=%3C&lines=printf(%22Hello+World!%5Cn%22);%3CConsole.Write(%22Hello+World!%5Cn%22);%3CSystem.out.print(%22Hello+World!%5Cn%22);" />
-  </a>
-</p>   
+  Engineer • Builder • Embedded + Desktop Software • Hardware Tinkerer
+</p>
 
-<!-- If you're reading this, you rock!! -->
+---
 
+### About Me
 
+I'm a software engineer who likes working close to hardware. Things like fixtures, embedded systems, test equipment, automation, and the occasional weird hardware problem that refuses to behave.
 
+Most of my work lives somewhere between:
 
+- Embedded C/C++ and microcontrollers
+- C# / .NET desktop tools
+- Python automation and scripting
+- Test fixtures, serial comms, sensors, and shop-floor tools
+- Hardware/software debugging
+- PCB and mechanical design concepts
 
+I like building practical tools that make real equipment easier to use, test, and understand.
 
-  
+---
+### Philosophy
 
+```c
+while(!problem_solved) {
+    test();
+    debug();
+    improve();
+}
+```
+
+Build It. Break It. Learn Why. Make It Better.
 
